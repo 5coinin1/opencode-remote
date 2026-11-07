@@ -21,7 +21,7 @@ Discord  ──►  Bridge (bot này)  ──►  opencode serve  ──►  mod
 ### 2) Lấy code & cài dependency
 
 ```bash
-git clone <repo-url> opencode-remote
+git clone https://github.com/5coinin1/opencode-remote.git
 cd opencode-remote
 npm install
 ```
